@@ -24,3 +24,5 @@ Liens évoqués dans l'épisode :
 * [La chute, de Laurent Chemla](https://blogs.mediapart.fr/laurent-chemla/blog/100121/la-chute-2)
 * [Code is Law de Lawrence Lessig](https://harvardmagazine.com/2000/01/code-is-law-html)
 * [Jeu et théorie du Duende de Federico Garcia Lorca, lu par Jacques Higelin](https://www.franceculture.fr/emissions/fictions-theatre-et-cie/jeu-et-theorie-du-duende-de-federico-garcia-lorca)
+
+Vous pouvez également lire la transcription complète de l’épisode réalisée par *Libre à Lire* : [Lire la transcription](https://www.librealire.org/henri-verdier-la-racine-du-probleme-c-est-le-design-des-reseaux-sociaux).
